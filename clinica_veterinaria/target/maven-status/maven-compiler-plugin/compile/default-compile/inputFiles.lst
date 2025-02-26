@@ -1,0 +1,13 @@
+C:\Users\Fakun\OneDrive\Desktop\clinica_veterinaria\clinica_veterinaria\src\main\java\com\practica\clinicaveterinaria\ClinicaveterinariaApplication.java
+C:\Users\Fakun\OneDrive\Desktop\clinica_veterinaria\clinica_veterinaria\src\main\java\com\practica\clinicaveterinaria\controllers\DuenioController.java
+C:\Users\Fakun\OneDrive\Desktop\clinica_veterinaria\clinica_veterinaria\src\main\java\com\practica\clinicaveterinaria\controllers\MascotaController.java
+C:\Users\Fakun\OneDrive\Desktop\clinica_veterinaria\clinica_veterinaria\src\main\java\com\practica\clinicaveterinaria\dto\MascotaDTO.java
+C:\Users\Fakun\OneDrive\Desktop\clinica_veterinaria\clinica_veterinaria\src\main\java\com\practica\clinicaveterinaria\dto\MascotaDuenioDTO.java
+C:\Users\Fakun\OneDrive\Desktop\clinica_veterinaria\clinica_veterinaria\src\main\java\com\practica\clinicaveterinaria\models\Duenio.java
+C:\Users\Fakun\OneDrive\Desktop\clinica_veterinaria\clinica_veterinaria\src\main\java\com\practica\clinicaveterinaria\models\Mascota.java
+C:\Users\Fakun\OneDrive\Desktop\clinica_veterinaria\clinica_veterinaria\src\main\java\com\practica\clinicaveterinaria\repositories\IDuenioRepository.java
+C:\Users\Fakun\OneDrive\Desktop\clinica_veterinaria\clinica_veterinaria\src\main\java\com\practica\clinicaveterinaria\repositories\IMascotaRepository.java
+C:\Users\Fakun\OneDrive\Desktop\clinica_veterinaria\clinica_veterinaria\src\main\java\com\practica\clinicaveterinaria\services\DuenioService.java
+C:\Users\Fakun\OneDrive\Desktop\clinica_veterinaria\clinica_veterinaria\src\main\java\com\practica\clinicaveterinaria\services\IDuenioService.java
+C:\Users\Fakun\OneDrive\Desktop\clinica_veterinaria\clinica_veterinaria\src\main\java\com\practica\clinicaveterinaria\services\IMascotaService.java
+C:\Users\Fakun\OneDrive\Desktop\clinica_veterinaria\clinica_veterinaria\src\main\java\com\practica\clinicaveterinaria\services\MascotaService.java
