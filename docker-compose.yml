@@ -16,7 +16,7 @@ services:
   clinica_vet:
     image: mariadb:10.4.32
     ports:
-      - "3307:3306"
+      - "3306:3306"
     environment:
       MYSQL_ROOT_PASSWORD: 12345678
       MYSQL_PASSWORD: 12345678
