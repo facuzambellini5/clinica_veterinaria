@@ -11,18 +11,17 @@ services:
       DB_PASSWORD: 12345678
     restart: always
     depends_on:
-      clinica_vet:
-        condition: service_healthy
+      - clinica_vet
   clinica_vet:
     image: mariadb:10.4.32
     ports:
-      - "3306:3306"
+      - "3307:3306"
     environment:
       MYSQL_ROOT_PASSWORD: 12345678
       MYSQL_PASSWORD: 12345678
       MYSQL_DATABASE: clinica_veterinaria
     restart: always
     healthcheck:
-      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      test: ["CMD", "mysqladmin", "ping", "-h", "clinica_vet"]
       timeout: 10s
       retries: 10
